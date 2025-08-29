@@ -32,10 +32,10 @@ Here are some of my projects you can explore, grouped by language.
 
 ## JS/TS
 
-[**dashboard**](https://github.com/tetsuo/dashboard) – dashboard UI prototype showcasing restache
-* [**flixbox**](https://github.com/tetsuo/flixbox) – movie trailer search app built with fp-ts
+* [**dashboard**](https://github.com/tetsuo/dashboard) – dashboard UI prototype showcasing restache
 * [**cubic-limit**](https://github.com/tetsuo/cubic-limit) – Manfred Mohr's Cubic Limit in Effect
-* [**couchilla**](https://github.com/tetsuo/couchilla) – CouchDB ddoc bundler with CommonJS support
+* [**flixbox**](https://github.com/tetsuo/flixbox) – movie trailer search app built with fp-ts
+* [**couchilla**](https://github.com/tetsuo/couchilla) – CouchDB design document bundler with CommonJS support
 * [**signal**](https://github.com/tetsuo/signal) – reactive programming primitives
 
 ## C & Rust
