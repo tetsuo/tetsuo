@@ -1,6 +1,6 @@
-I'm Onur Gündüz, a Netherlands-based engineer crafting cloud backends, UIs, and devtools mostly in Go, TypeScript, C, Rust, and Python.
+I'm Onur Gündüz, a Netherlands-based engineer building backends, UIs, and developer tools in Go, TypeScript, C, Rust, and Python.
 
-Here are some of my open-source projects, organized by language.
+Here are some of my open-source projects, grouped by language.
 
 ## Go
 
