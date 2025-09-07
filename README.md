@@ -43,6 +43,10 @@ Here are some of my projects you can explore, grouped by language.
 * [**mailroom**](https://github.com/tetsuo/mailroom) – experimental email service architecture
 * [**filemonitor**](https://github.com/tetsuo/filemonitor-kq) – handy file change watcher with kqueue
 
+## Python
+
+* [**pg99**](https://github.com/tetsuo/pg99) – static site generator
+
 <!--
 **tetsuo/tetsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
