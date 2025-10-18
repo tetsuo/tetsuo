@@ -1,63 +1,28 @@
-# 👋 Hi there!
+# Hey! I'm Onur 👋
 
-I'm Onur Gündüz, a Netherlands-based engineer building backends, UIs, and devtools in Go, TypeScript, C, Rust, and Python.
+I'm a Netherlands-based software engineer playing around with Go, TypeScript, Rust, and Python.
 
-Here are some of my projects you can explore, grouped by language.
+Here you'll find my side projects, tools, and random experiments — feel free to explore and leave feedback!
 
-## Go
+| Name | Description | Language |
+|---------|-------------|----------|
+| [**burp**](https://github.com/tetsuo/burp) | old-school LLM chatroom | Go |
+| [**restache**](https://github.com/tetsuo/restache) | HTML5 to JSX transpiler with Mustache-like syntax | Go |
+| [**dashboard**](https://github.com/tetsuo/dashboard) | dashboard UI prototype showcasing restache | JSX/HTML |
+| [**fortune**](https://github.com/tetsuo/fortune) | GCP-native HTTP API for serving random fortunes | Go |
+| [**binproto**](https://github.com/tetsuo/binproto) | streaming, length-prefixed wire protocol | Go |
+| [**xtray**](https://github.com/tetsuo/xtray) | tiny macOS menubar utility | Go |
+| [**bbq**](https://github.com/tetsuo/bbq) | thread-safe bounded FIFO queue | Go |
+| [**rat**](https://github.com/tetsuo/rat) | refreshable auth tokens | Go |
+| [**sliding**](https://github.com/tetsuo/sliding) | lock-free sliding window counter | Go |
+| [**toposort**](https://github.com/tetsuo/toposort) | BFS/DFS topological sorting with cycle detection | Go |
+| [**commonpath**](https://github.com/tetsuo/commonpath) | Go port of Python `commonpath` | Go |
+| [**tsort-go**](https://github.com/tetsuo/tsort-go) | Go port of GNU Coreutils `tsort` | Go |
+| [**cubic-limit**](https://github.com/tetsuo/cubic-limit) | Manfred Mohr's Cubic Limit in Effect | TypeScript |
+| [**flixbox**](https://github.com/tetsuo/flixbox) | movie trailer search app built with fp-ts | TypeScript |
+| [**couchilla**](https://github.com/tetsuo/couchilla) | CouchDB design document bundler with CommonJS support | JS |
+| [**signal**](https://github.com/tetsuo/signal) | reactive programming primitives | JS |
+| [**mailroom**](https://github.com/tetsuo/mailroom) | experimental email service architecture | C & Rust |
+| [**pg99**](https://github.com/tetsuo/pg99) | static site generator | Python |
 
-**Tools/services**
-
-* [**restache**](https://github.com/tetsuo/restache) – HTML5→JSX transpiler with Mustache-like syntax
-* [**fortune**](https://github.com/tetsuo/fortune) – fully production-ready HTTP API for serving random fortunes
-* [**burp**](https://github.com/tetsuo/burp) – old-school LLM chatroom
-* [**xtray**](https://github.com/tetsuo/xtray) – tiny macOS menubar utility
-
-**Data interchange/auth**
-
-* [**binproto**](https://github.com/tetsuo/binproto) – streaming, length-prefixed wire protocol
-* [**rat**](https://github.com/tetsuo/rat) – compact serialization for refreshable auth tokens
-
-**Generic data structures and primitives**
-
-* [**bbq**](https://github.com/tetsuo/bbq) – thread-safe bounded FIFO queue
-* [**toposort**](https://github.com/tetsuo/toposort) – BFS/DFS topological sorting with cycle detection
-* [**ring**](https://github.com/tetsuo/ring) – simple circular buffer with bitmasking
-* [**sliding**](https://github.com/tetsuo/sliding) – lock-free sliding window counter
-
-**Ports**
-
-* [**commonpath**](https://github.com/tetsuo/commonpath) – Go port of Python `commonpath`
-* [**tsort-go**](https://github.com/tetsuo/tsort-go) – Go port of GNU Coreutils `tsort`
-
-## JS/TS
-
-* [**dashboard**](https://github.com/tetsuo/dashboard) – dashboard UI prototype showcasing restache
-* [**cubic-limit**](https://github.com/tetsuo/cubic-limit) – Manfred Mohr's Cubic Limit in Effect
-* [**flixbox**](https://github.com/tetsuo/flixbox) – movie trailer search app built with fp-ts
-* [**couchilla**](https://github.com/tetsuo/couchilla) – CouchDB design document bundler with CommonJS support
-* [**signal**](https://github.com/tetsuo/signal) – reactive programming primitives
-
-## C & Rust
-
-* [**mailroom**](https://github.com/tetsuo/mailroom) – experimental email service architecture
-* [**filemonitor**](https://github.com/tetsuo/filemonitor-kq) – handy file change watcher with kqueue
-
-## Python
-
-* [**pg99**](https://github.com/tetsuo/pg99) – static site generator
-
-<!--
-**tetsuo/tetsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[See all repos](https://github.com/tetsuo?tab=repositories)
