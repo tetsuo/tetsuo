@@ -17,5 +17,6 @@ Feel free to explore and leave feedback!
 | [**flixbox**](https://github.com/tetsuo/flixbox) | Movie trailer search app built with fp-ts | TypeScript |
 | [**couchilla**](https://github.com/tetsuo/couchilla) | CouchDB design document bundler | JS |
 | [**pg99**](https://github.com/tetsuo/pg99) | Static site generator | Python |
+| [**resizer**](https://github.com/tetsuo/resizer) | Image resizing service | Go |
 
 👉 [**See all repos**](https://github.com/tetsuo?tab=repositories)
