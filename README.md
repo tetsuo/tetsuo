@@ -1,16 +1,17 @@
 # Hi! I'm Onur 👋
 
-Here you'll find my side projects, tools, and random experiments.
+Welcome to my collection of side projects, tools, and experiments.
 
-Feel free to explore and leave feedback!
+Feel free to explore and share your feedback!
 
 | Name | Description | Language |
 |---------|-------------|----------|
+| [**frontdex**](https://github.com/tetsuo/frontdex) | OAuth2/OIDC middleware that fronts Dex | Go |
 | [**burp**](https://github.com/tetsuo/burp) | LLM chatroom | Go |
 | [**restache**](https://github.com/tetsuo/restache) | Mustache to JSX transpiler | Go |
-| [**dashboard**](https://github.com/tetsuo/dashboard) | Dashboard UI prototype showcasing restache | JSX/HTML |
+| [**dashboard**](https://github.com/tetsuo/dashboard) | Dashboard UI prototype using restache | JSX/HTML |
 | [**fortune**](https://github.com/tetsuo/fortune) | Fortune-as-a-Service (FaaS) on GCP | Go |
-| [**mailroom**](https://github.com/tetsuo/mailroom) | Experimental email service using Postgres | C & Rust |
+| [**mailroom**](https://github.com/tetsuo/mailroom) | Experimental email service with Postgres | C & Rust |
 | [**binproto**](https://github.com/tetsuo/binproto) | Length-prefixed protocol | Go |
 | [**xtray**](https://github.com/tetsuo/xtray) | Tiny macOS menubar utility | Go |
 | [**cubic-limit**](https://github.com/tetsuo/cubic-limit) | Manfred Mohr's Cubic Limit in Effect | TypeScript |
