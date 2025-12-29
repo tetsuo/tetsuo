@@ -15,6 +15,7 @@ Feel free to explore and share your feedback!
 | [**binproto**](https://github.com/tetsuo/binproto) | Length-prefixed binary protocol | Go |
 | [**cubic-limit**](https://github.com/tetsuo/cubic-limit) | Manfred Mohr's Cubic Limit in Effect | TypeScript |
 | [**flixbox**](https://github.com/tetsuo/flixbox) | Movie trailer search app built with fp-ts | TypeScript |
+| [**couchdb**](https://github.com/tetsuo/couchdb) | CouchDB API client | Go |
 | [**couchilla**](https://github.com/tetsuo/couchilla) | CouchDB design document bundler | JS |
 | [**signal**](https://github.com/tetsuo/signal) | Reactive state management library | JS |
 | [**xtray**](https://github.com/tetsuo/xtray) | Tiny macOS menubar utility | Go |
